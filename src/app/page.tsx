@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50">
@@ -9,7 +7,7 @@ export default function Home() {
           Syeth Nabil
         </h1>
         <p className="text-xl text-gray-600 mb-8">
-          I'm a Full Stack Developer and I create a modern and responsive websites.
+          I&apos;m a Full Stack Developer and I create a modern and responsive websites.
         </p>
         <div className="flex justify-center gap-4">
           <a
@@ -62,10 +60,10 @@ export default function Home() {
                 </div>
                 <div className="space-y-6">
                   <p className="text-gray-600 leading-relaxed">
-                    I'm a passionate Full Stack Developer with expertise in building modern web applications. With a strong foundation in both frontend and backend technologies, I create seamless, user-friendly experiences that solve real-world problems.
+                    I&apos;m a passionate Full Stack Developer with expertise in building modern web applications. With a strong foundation in both frontend and backend technologies, I create seamless, user-friendly experiences that solve real-world problems.
                   </p>
                   <p className="text-gray-600 leading-relaxed">
-                    When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying outdoor activities. I believe in continuous learning and staying updated with the latest industry trends.
+                    When I&apos;m not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying outdoor activities. I believe in continuous learning and staying updated with the latest industry trends.
                   </p>
                   <div className="grid grid-cols-2 md:grid-cols-4 gap-4 pt-4">
                     <div className="bg-blue-50 p-4 rounded-lg text-center">
